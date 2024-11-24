@@ -3,7 +3,7 @@
 ## **Overview**  
 This project explores the implementation of a Naive Bayes classifier to predict the type of contact lenses (none, soft, or hard) for individuals based on their attributes. Leveraging a small dataset of 24 records, the project demonstrates the fundamental principles of machine learning, focusing on **manual calculations and data analysis using Excel**. The emphasis is on understanding probability theory, applying Laplace smoothing to handle zero-frequency issues, and showcasing Excel as a key analytical tool.
 
-![Machine Learning with Excel](images/excel_calculation_example.png)
+![Machine Learning with Excel](images/MLwithExcel.webp)
 
 ---
 
